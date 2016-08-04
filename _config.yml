@@ -1,0 +1,14 @@
+layout_spectrum: 0.1031520226970315
+typography_spectrum: 0.8126626575831324
+color:
+  brandStrength: 0.1545402726624161
+  lightness: 0.32297244598157704
+  saturation: 0.14707461884245276
+  rhythmicContrast: 0.6565428148023784
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Debot
