@@ -1,4 +1,3 @@
-layout_spectrum: 0.1031520226970315
 typography_spectrum: 0.8126626575831324
 color:
   brandStrength: 0.1545402726624161
@@ -11,5 +10,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.1031520226970315
 name: Debot Branding LLP
+title: Debot Branding LLP
 description: Let's Talk Design
